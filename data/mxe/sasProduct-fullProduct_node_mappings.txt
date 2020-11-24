@@ -1,0 +1,52 @@
+  NodeId    MxeCellId  MxeCellName
+--------  -----------  ------------------------------------------
+       0          268  [
+       1          275  log in
+       2          266  access as a teacher
+       3          274  turn editing on
+       4          314  open class records
+       5          270  ]
+       6          440  delete class
+       7          184  confirm deletion
+       8          219  select the deletable class
+       9          150  add new class
+      10          151  enter the name of the class
+      11          152  enter the class detail
+      12          158  submit the class
+      13          177  select the editable class
+      14          163  update the name of the class
+      15          164  update the class detail
+      16          234  assign schedule
+      17          471  add new schedule
+      18          472  enter the days ofthe class
+      19          473  enter the hours of the class
+      20          478  submit the class schedule
+      21          510  update the days ofthe class
+      22          512  update the hours of the class
+      23          222  select the editable schedule
+      24          120  read the access card to the card reader
+      25          133  submit attendance
+      26          137  confirm your identity
+      27          317  open notification settings
+      28          319  confirm notification settings
+      29          428  receive notifications as Email
+      30          334  select the existing schedule
+      31          205  select the existing class
+      32          332  view schedule
+      33          206  view class
+      34          253  open student attendance records
+      35          379  select a class-list attendance record
+      36          235  select an editable student-record
+      37          413  edit attendance status
+      38          245  submit attendance record update
+      39          420  trace attendance activity of the class
+      40          223  select the existing record
+      41          179  view record
+      42          337  monitor current attendance status
+      43          555  open myattendance records
+      44          559  access as a student
+      45           99  show the barcode to the barcodereader
+      46          101  enter barcode manually
+      47          109  put your finger to the fingerprint scanner
+      48          569  receive notifications as SMS
+      49          127  show the QR code to the QR code reader

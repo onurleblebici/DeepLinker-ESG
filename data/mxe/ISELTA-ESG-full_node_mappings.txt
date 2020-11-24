@@ -1,0 +1,70 @@
+  NodeId  MxeCellId       MxeCellName
+--------  --------------  -----------------------------
+       0  16              [
+       1  17              ]
+       2  18-5            Link: "login"
+       3  18-8            login
+       4  20-6            login
+       5  20-16           Link:"home"
+       6  20-18           Link:"Register"
+       7  20-19           Link:"Imprint"
+       8  20-20           Link:"Contact"
+       9  23-7            Link: "My Profile"
+      10  23-8            Verify"edit Profile"
+      11  23-9            Verify:"Welcome to ISELTA"
+      12  23-12           Link: "home"
+      13  23-14           Link: "My Hotels"
+      14  23-15           Verify"My Hotels"
+      15  23-17           Link: "My Search"
+      16  23-18           Verify"My Search"
+      17  23-20           Link: "My bookings"
+      18  23-21           Verify"Bookings"
+      19  23-43-42        change master data
+      20  23-43-43        change Language
+      21  23-43-44        change Password
+      22  23-43-49        Save
+      23  23-43-50        Cancel
+      24  23-43-51        Save
+      25  23-43-52        Cancel
+      26  23-43-54        Save
+      27  23-43-55        Cancel
+      28  23-43-59        master data
+      29  23-43-61        Password data
+      30  23-43-62        Language data
+      31  23-43-122       Error
+      32  23-43-126       Error
+      33  23-43-130       Error
+      34  23-46-7         Button: "Pause"
+      35  23-46-9         Button: "edit"
+      36  23-46-12        Link: "Hotels"
+      37  23-46-14        Button: "Release"
+      38  23-46-17-17     Link: "General data"
+      39  23-46-17-18     Link: "Hotel Characteristics"
+      40  23-46-17-19     Link: "Contingents"
+      41  23-46-17-20     Link: "Prices"
+      42  23-46-17-21     Link: "Specials"
+      43  23-46-17-53     General Data
+      44  23-46-17-55     Hotel Characteristics
+      45  23-46-17-56     Contingents
+      46  23-46-17-58     Prices
+      47  23-46-17-60-4   Special data 1
+      48  23-46-17-60-5   add
+      49  23-46-17-60-6   delete Special
+      50  23-46-17-60-7   ok
+      51  23-46-17-60-8   cancel
+      52  23-46-17-60-9   save
+      53  23-46-17-60-10  edit Special
+      54  23-46-17-60-11  Special data 2
+      55  23-46-17-60-12  cancel
+      56  23-46-17-60-85  error
+      57  23-46-17-70     Button: "cancel"
+      58  23-46-17-72     Button: "save"
+      59  23-46-17-89     Link: "Hotels"
+      60  23-46-17-92     Button: "Continue"
+      61  23-46-17-95     Button: "Continue"
+      62  23-46-17-98     Button: "Continue"
+      63  23-46-17-101    Button: "Continue"
+      64  23-46-17-104    Button: "finish"
+      65  23-46-17-106    Button: "to overview"
+      66  23-46-17-140    Error
+      67  27              Link: "logout"

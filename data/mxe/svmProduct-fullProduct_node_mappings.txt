@@ -1,0 +1,13 @@
+  NodeId    MxeCellId  MxeCellName
+--------  -----------  -------------
+       0            2  [
+       1            3  ]
+       2            7  select
+       3            8  serveSoda
+       4           11  payEUR
+       5           40  prompt
+       6           43  cancel
+       7           48  returnMoney
+       8           55  payUSD
+       9           59  serveTea
+      10           62  ~free

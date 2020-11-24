@@ -1,0 +1,21 @@
+  NodeId    MxeCellId  MxeCellName
+--------  -----------  ---------------------------------------
+       0           40  compose new email
+       1           42  enter receiver's email address
+       2           43  enter email subject
+       3           45  enter email body
+       4           47  send email
+       5           66  ]
+       6           74  open mailbox
+       7           77  select email
+       8          107  [
+       9          124  enter email autoresponse date interval
+      10          125  enter autoresponse email body
+      11           96  enter the  receiver's email address
+      12           97  enter alias email addresses of receiver
+      13          117  create an addressbook for a receiver
+      14          131  get alias email addresses of receiver
+      15          103  get receiver's  public key
+      16           53  encrypt mail with receiver's public key
+      17          139  sign mail
+      18           33  enter forward receiver's email address
